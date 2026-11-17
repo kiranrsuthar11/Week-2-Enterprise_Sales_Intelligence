@@ -1,0 +1,13 @@
+{
+  "input_dir": "data/raw",
+  "processed_dir": "data/processed",
+  "reports_dir": "reports",
+  "visualizations_dir": "visualizations",
+  "database_path": "data/sales_database.db",
+  "log_path": "logs/pipeline.log",
+  "high_quantity_threshold": 100,
+  "high_discount_threshold": 0.50,
+  "high_transaction_value_threshold": 100000,
+  "customer_high_value_threshold": 50000,
+  "customer_regular_value_threshold": 20000
+}

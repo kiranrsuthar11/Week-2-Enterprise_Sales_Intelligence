@@ -1,0 +1,6 @@
+Transaction_ID,Transaction_Date,Customer_ID,Customer_Name,Product_ID,Product_Name,Category,Branch,Quantity,Unit_Price,Discount,Payment_Method,Order_Status,Source_File,Rejection_Reason
+TXN00006,2026-02-15,C014,Customer 14,P101,Wireless Mouse,Accessories,Nashik,1,650,0.55,Cash,Completed,sales_january.csv,Duplicate transaction ID
+TXN00020,2026-01-28,C020,Customer 20,P104,Desk Lamp,Home Appliances,Nashik,-5,1800,0.05,Debit Card,Completed,sales_january.csv,Invalid quantity
+TXN00025,2026-02-08,C001,Customer 1,P101,Wireless Mouse,Accessories,Mumbai,8,-500,0.55,UPI,Completed,sales_january.csv,Invalid unit price
+TXN00030,,C016,Customer 16,P104,Desk Lamp,Home Appliances,Nashik,8,1800,0.0,Wallet,Completed,sales_january.csv,Invalid date
+TXN00035,2026-02-11,C025,Customer 25,P103,Office Chair,Furniture,Pune,7,6500,1.5,Cash,Completed,sales_january.csv,Invalid discount

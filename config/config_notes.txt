@@ -1,0 +1,8 @@
+Configuration notes
+- Input CSV folder: data/raw
+- Processed output folder: data/processed
+- Reports: reports
+- Charts: visualizations
+- Database: data/sales_database.db (SQLite)
+- Anomaly rules currently flag quantity > 100, discount > 50%, and net sales > Rs 100,000.
+- Customer segmentation is rule-based in src/sales_analysis.py; no machine learning is used.

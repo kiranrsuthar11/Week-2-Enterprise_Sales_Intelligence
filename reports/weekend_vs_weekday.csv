@@ -1,0 +1,3 @@
+Is_Weekend,Revenue,Orders,Day_Type
+False,2439895.0,67,Weekday
+True,485382.5,31,Weekend

@@ -1,0 +1,4 @@
+Raw CSV files -> Import and combine -> Validate and profile -> Clean and reject bad rows
+-> Calculate sales and date fields -> Product / branch / customer / payment / discount / time analysis
+-> Rule-based anomaly detection -> SQLite database + CSV tables + charts
+-> Automated management report and recommendations

@@ -1,0 +1,11 @@
+Check,Count
+Total_Records,121
+Missing_Values_Total,2
+Missing_Customer_Name,1
+Missing_Product_Name,1
+Missing_Unit_Price,0
+Duplicate_Transaction_ID_Rows,2
+Invalid_Quantity_Rows,1
+Invalid_Price_Rows,1
+Invalid_Date_Rows,1
+Invalid_Discount_Rows,1

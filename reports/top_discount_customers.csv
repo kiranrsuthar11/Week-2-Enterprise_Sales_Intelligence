@@ -1,0 +1,11 @@
+Customer_ID,Customer_Name,Orders,Revenue,Total_Discount,Average_Discount,Customer_Segment
+C014,Customer 14,7,972397.5,59052.5,0.2,High Value Customer
+C019,Customer 19,7,195435.0,31565.0,0.15,High Value Customer
+C018,Customer 18,3,114450.0,20250.0,0.15,High Value Customer
+C004,Customer 4,6,141680.0,18520.0,0.11666666666666668,High Value Customer
+C006,Customer 6,6,166585.0,17315.0,0.08333333333333333,High Value Customer
+C010,Customer 10,5,130435.0,17065.0,0.12,High Value Customer
+C011,Customer 11,8,105445.0,15555.0,0.20625000000000002,High Value Customer
+C016,Customer 16,3,143730.0,14670.0,0.08333333333333333,High Value Customer
+C002,Customer 2,8,85665.0,14635.0,0.15,High Value Customer
+C015,Customer 15,6,65170.0,13480.0,0.19166666666666668,High Value Customer

@@ -1,0 +1,20 @@
+
+Transaction_ID,Transaction_Date,Customer_ID,Customer_Name,Product_ID,Product_Name,Category,Branch,Quantity,Unit_Price,Discount,Payment_Method,Order_Status
+T001,2026-01-05,C101,Amit,P01,Laptop,Electronics,Jaipur,2,45000,10,UPI,Completed
+T002,2026-01-06,C102,Neha,P02,Mouse,Accessories,Jodhpur,3,500,5,Cash,Completed
+T003,2026-01-07,C103,Ravi,P03,Keyboard,Accessories,Jaipur,1,1200,0,Card,Completed
+T003,2026-01-07,C103,Ravi,P03,Keyboard,Accessories,Jaipur,1,1200,0,Card,Completed
+T005,2026-01-09,C104,,P04,Monitor,Electronics,Jodhpur,2,12000,15,UPI,Completed
+T006,not-a-date,C105,Priya,P05,Phone,Electronics,Ajmer,1,25000,10,Cash,Completed
+T007,2026-01-11,C106,Karan,P06,Desk, Furniture,Jaipur,0,8000,5,Card,Completed
+T008,2026-01-12,C107,Simran,P07,Chair,Furniture,Jodhpur,-2,3500,5,UPI,Completed
+T009,2026-01-13,C108,Arjun,P08,Tablet,Electronics,Ajmer,2,18000,150,Card,Completed
+T010,2026-01-14,C109,Meena,P09,Headphones,Accessories,Jaipur,three,2000,10,UPI,Completed
+T011,2026-01-15,,Rahul,P10,Printer,Electronics,Jodhpur,1,9000,5,Cash,Completed
+T012,2026-01-16,C111,Sonia,P11,USB Cable,Accessories,Ajmer,5,free,0,UPI,Completed
+T013,2026-01-17,C112,Vikas,P12,Camera,Electronics,Jaipur,1,35000,-10,Card,Completed
+T014,2026-01-18,C113,Anita,P13,Speaker,Accessories,Jodhpur,2,2500,10,Unknown,Pending
+T015,2026-01-19,C114,Mohan,P14,Watch,Accessories,Ajmer,1,5000,5,UPI,Completed
+T016,,C115,Ritu,P15,Router,Electronics,Jaipur,2,3000,5,Cash,Completed
+T017,2026-01-21,C116,Dev,P16,Webcam,Accessories,Jodhpur,1,2200,,Card,Completed
+T018,2026-01-22,C117,Isha,P17,Phone Case,Accessories,Ajmer,4,400,5,UPI,Cancelled

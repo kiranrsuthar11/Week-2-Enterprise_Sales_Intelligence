@@ -1,0 +1,11 @@
+Transaction_ID,Transaction_Date,Customer_ID,Customer_Name,Product_ID,Product_Name,Category,Branch,Quantity,Unit_Price,Discount,Payment_Method,Order_Status,Source_File,Gross_Sales,Discount_Amount,Net_Sales,Day_Name,Is_Weekend,Day,Week,Month,Quarter
+TXN00040,2026-01-28 00:00:00,C014,Customer 14,P103,Office Chair,Furniture,Mumbai,150,6500,0.05,Debit Card,Completed,sales_january.csv,975000,48750.0,926250.0,Wednesday,0,2026-01-28,2026-01-26/2026-02-01,2026-01,2026Q1
+TXN00083,2026-03-25 00:00:00,C016,Customer 16,P106,Smartphone,Electronics,Pune,8,18000,0.1,Wallet,Completed,sales_february.csv,144000,14400.0,129600.0,Wednesday,0,2026-03-25,2026-03-23/2026-03-29,2026-03,2026Q1
+TXN00087,2026-01-18 00:00:00,C006,Customer 6,P106,Smartphone,Electronics,Nagpur,8,18000,0.1,Cash,Completed,sales_february.csv,144000,14400.0,129600.0,Sunday,1,2026-01-18,2026-01-12/2026-01-18,2026-01,2026Q1
+TXN00019,2026-02-12 00:00:00,C020,Customer 20,P106,Smartphone,Electronics,Mumbai,7,18000,0.0,Credit Card,Pending,sales_january.csv,126000,0.0,126000.0,Thursday,0,2026-02-12,2026-02-09/2026-02-15,2026-02,2026Q1
+TXN00056,2026-03-20 00:00:00,C017,Customer 17,P106,Smartphone,Electronics,Pune,7,18000,0.0,UPI,Completed,sales_january.csv,126000,0.0,126000.0,Friday,0,2026-03-20,2026-03-16/2026-03-22,2026-03,2026Q1
+TXN00007,2026-01-15 00:00:00,C019,Customer 19,P106,Smartphone,Electronics,Mumbai,7,18000,0.05,Credit Card,Completed,sales_january.csv,126000,6300.0,119700.0,Thursday,0,2026-01-15,2026-01-12/2026-01-18,2026-01,2026Q1
+TXN00098,2026-01-26 00:00:00,C003,Customer 3,P106,Smartphone,Electronics,Aurangabad,6,18000,0.0,Debit Card,Completed,sales_february.csv,108000,0.0,108000.0,Monday,0,2026-01-26,2026-01-26/2026-02-01,2026-01,2026Q1
+TXN00028,2026-01-01 00:00:00,C018,Customer 18,P106,Smartphone,Electronics,Aurangabad,7,18000,0.15,Debit Card,Completed,sales_january.csv,126000,18900.0,107100.0,Thursday,0,2026-01-01,2025-12-29/2026-01-04,2026-01,2026Q1
+TXN00118,2026-03-02 00:00:00,C008,Customer 8,P106,Smartphone,Electronics,Pune,6,18000,0.05,UPI,Completed,sales_february.csv,108000,5400.0,102600.0,Monday,0,2026-03-02,2026-03-02/2026-03-08,2026-03,2026Q1
+TXN00055,2026-01-02 00:00:00,C025,Customer 25,P106,Smartphone,Electronics,Nagpur,6,18000,0.05,UPI,Completed,sales_january.csv,108000,5400.0,102600.0,Friday,0,2026-01-02,2025-12-29/2026-01-04,2026-01,2026Q1

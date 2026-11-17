@@ -1,0 +1,61 @@
+Transaction_ID,Transaction_Date,Customer_ID,Customer_Name,Product_ID,Product_Name,Category,Branch,Quantity,Unit_Price,Discount,Payment_Method,Order_Status
+TXN00062,2026-03-28,C020,Customer 20,P105,Cotton Shirt,Clothing,Mumbai,3,900,0.0,UPI,Completed
+TXN00063,2026-02-23,C019,Customer 19,P103,Office Chair,Furniture,Pune,5,6500,0.55,UPI,Completed
+TXN00064,2026-03-28,C002,Customer 2,P107,Headphones,Electronics,Nagpur,7,3200,0.15,Credit Card,Completed
+TXN00065,2026-01-30,C020,Customer 20,P107,Headphones,Electronics,Pune,4,3200,0.1,Cash,Completed
+TXN00066,2026-03-09,C007,Customer 7,P106,Smartphone,Electronics,Aurangabad,2,18000,0.05,Cash,Completed
+TXN00067,2026-01-16,C012,Customer 12,P107,Headphones,Electronics,Nagpur,1,3200,0.05,Debit Card,Completed
+TXN00068,2026-01-06,C009,Customer 9,P101,Wireless Mouse,Accessories,Nashik,7,650,0.15,Net Banking,Completed
+TXN00069,2026-03-17,C001,Customer 1,P101,Wireless Mouse,Accessories,Aurangabad,6,650,0.55,Wallet,Completed
+TXN00070,2026-01-31,C012,Customer 12,P103,Office Chair,Furniture,Aurangabad,6,6500,0.2,Net Banking,Completed
+TXN00071,2026-01-18,C015,Customer 15,P108,Bookshelf,Furniture,Mumbai,3,4200,0.0,Credit Card,Completed
+TXN00072,2026-02-18,C019,Customer 19,P108,Bookshelf,Furniture,Mumbai,1,4200,0.05,Wallet,Completed
+TXN00073,2026-01-19,C004,Customer 4,P107,Headphones,Electronics,Nashik,4,3200,0.05,Net Banking,Completed
+TXN00074,2026-02-24,C011,Customer 11,P108,Bookshelf,Furniture,Pune,8,4200,0.05,Debit Card,Completed
+TXN00075,2026-02-01,C016,Customer 16,P108,Bookshelf,Furniture,Mumbai,3,4200,0.0,Debit Card,Completed
+TXN00076,2026-02-27,C009,Customer 9,P102,Keyboard,Accessories,Aurangabad,5,1200,0.1,Cash,Completed
+TXN00077,2026-01-28,C015,Customer 15,P101,Wireless Mouse,Accessories,Nashik,3,650,0.2,UPI,Completed
+TXN00078,2026-02-11,C004,Customer 4,P106,Smartphone,Electronics,Mumbai,4,18000,0.1,Net Banking,Completed
+TXN00079,2026-01-05,C006,Customer 6,P103,Office Chair,Furniture,Aurangabad,1,6500,0.15,Wallet,Completed
+TXN00080,2026-03-11,C014,Customer 14,P108,Bookshelf,Furniture,Nagpur,6,4200,0.2,UPI,Completed
+TXN00081,2026-03-16,C003,Customer 3,P101,Wireless Mouse,Accessories,Mumbai,3,650,0.1,Wallet,Completed
+TXN00082,2026-01-21,C005,Customer 5,P101,Wireless Mouse,Accessories,Nashik,3,650,0.1,Debit Card,Cancelled
+TXN00083,2026-03-25,C016,Customer 16,P106,Smartphone,Electronics,Pune,8,18000,0.1,Wallet,Completed
+TXN00084,2026-03-01,C007,Customer 7,P107,Headphones,Electronics,Pune,7,3200,0.1,Wallet,Completed
+TXN00085,2026-02-11,C023,Customer 23,P101,Wireless Mouse,Accessories,Aurangabad,6,650,0.05,Wallet,Completed
+TXN00086,2026-01-15,C004,Customer 4,P105,Cotton Shirt,Clothing,Mumbai,6,900,0.2,UPI,Completed
+TXN00087,2026-01-18,C006,Customer 6,P106,Smartphone,Electronics,Nagpur,8,18000,0.1,Cash,Completed
+TXN00088,2026-01-31,C020,Customer 20,P104,Desk Lamp,Home Appliances,Pune,7,1800,0.0,Credit Card,Completed
+TXN00089,2026-02-05,C014,Customer 14,P102,Keyboard,Accessories,Aurangabad,4,1200,0.15,Net Banking,Completed
+TXN00090,2026-02-11,C011,Customer 11,P103,Office Chair,Furniture,Nagpur,3,6500,0.55,Debit Card,Pending
+TXN00091,2026-02-19,C003,Customer 3,P105,Cotton Shirt,Clothing,Nagpur,5,900,0.15,UPI,Completed
+TXN00092,2026-03-25,C014,Customer 14,P103,Office Chair,Furniture,Nashik,1,6500,0.05,Cash,Completed
+TXN00093,2026-03-07,C004,Customer 4,P105,Cotton Shirt,Clothing,Aurangabad,6,900,0.1,Debit Card,Completed
+TXN00094,2026-01-10,C002,Customer 2,P104,Desk Lamp,Home Appliances,Pune,1,1800,0.15,UPI,Completed
+TXN00095,2026-03-24,C021,Customer 21,P107,Headphones,Electronics,Nashik,4,3200,0.2,Debit Card,Cancelled
+TXN00096,2026-02-02,C019,Customer 19,P105,Cotton Shirt,Clothing,Aurangabad,1,900,0.0,Debit Card,Pending
+TXN00097,2026-01-17,C023,Customer 23,P101,Wireless Mouse,Accessories,Aurangabad,4,650,0.2,UPI,Completed
+TXN00098,2026-01-26,C003,Customer 3,P106,Smartphone,Electronics,Aurangabad,6,18000,0.0,Debit Card,Completed
+TXN00099,2026-01-13,C017,Customer 17,P104,Desk Lamp,Home Appliances,Mumbai,6,1800,0.15,Wallet,Completed
+TXN00100,2026-03-16,C021,Customer 21,P105,Cotton Shirt,Clothing,Aurangabad,7,900,0.2,Credit Card,Completed
+TXN00101,2026-03-20,C002,Customer 2,P105,Cotton Shirt,Clothing,Aurangabad,3,900,0.15,Debit Card,Completed
+TXN00102,2026-01-26,C006,Customer 6,P102,Keyboard,Accessories,Mumbai,1,1200,0.05,Debit Card,Completed
+TXN00103,2026-03-10,C016,Customer 16,P105,Cotton Shirt,Clothing,Mumbai,2,900,0.15,Wallet,Completed
+TXN00104,2026-03-30,C004,Customer 4,P103,Office Chair,Furniture,Nashik,8,6500,0.15,Net Banking,Completed
+TXN00105,2026-01-04,C015,Customer 15,P107,Headphones,Electronics,Pune,1,3200,0.0,Net Banking,Completed
+TXN00106,2026-01-16,C006,Customer 6,P104,Desk Lamp,Home Appliances,Aurangabad,4,1800,0.15,Wallet,Completed
+TXN00107,2026-03-10,C007,Customer 7,P104,Desk Lamp,Home Appliances,Nashik,3,1800,0.1,Wallet,Pending
+TXN00108,2026-03-22,C017,Customer 17,P103,Office Chair,Furniture,Nashik,2,6500,0.0,Debit Card,Completed
+TXN00109,2026-03-31,C014,Customer 14,P107,Headphones,Electronics,Nashik,4,3200,0.2,Credit Card,Cancelled
+TXN00110,2026-01-25,C009,Customer 9,P105,Cotton Shirt,Clothing,Nagpur,5,900,0.05,Wallet,Completed
+TXN00111,2026-02-13,C008,Customer 8,P106,Smartphone,Electronics,Nashik,1,18000,0.05,Debit Card,Completed
+TXN00112,2026-02-21,C015,Customer 15,P105,Cotton Shirt,Clothing,Nashik,7,900,0.2,Credit Card,Completed
+TXN00113,2026-03-14,C002,Customer 2,P104,Desk Lamp,Home Appliances,Aurangabad,5,1800,0.2,Credit Card,Completed
+TXN00114,2026-02-01,C011,Customer 11,P103,Office Chair,Furniture,Aurangabad,8,6500,0.0,Wallet,Completed
+TXN00115,2026-03-29,C004,Customer 4,P104,Desk Lamp,Home Appliances,Mumbai,7,1800,0.1,Credit Card,Cancelled
+TXN00116,2026-01-03,C017,Customer 17,P103,Office Chair,Furniture,Pune,6,6500,0.1,Debit Card,Cancelled
+TXN00117,2026-01-11,C019,Customer 19,P107,Headphones,Electronics,Mumbai,5,3200,0.1,Debit Card,Completed
+TXN00118,2026-03-02,C008,Customer 8,P106,Smartphone,Electronics,Pune,6,18000,0.05,UPI,Completed
+TXN00119,2026-01-09,C014,Customer 14,P103,Office Chair,Furniture,Mumbai,1,6500,0.2,Cash,Completed
+TXN00120,2026-02-05,C019,Customer 19,P103,Office Chair,Furniture,Aurangabad,6,6500,0.1,UPI,Pending
+TXN00006,2026-02-15,C014,Customer 14,P101,Wireless Mouse,Accessories,Nashik,1,650,0.55,Cash,Completed

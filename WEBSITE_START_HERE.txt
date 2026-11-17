@@ -1,0 +1,14 @@
+ENTERPRISE SALES INTELLIGENCE - WEBSITE QUICK START
+
+1. Extract the ZIP to a folder you can write to.
+2. Double-click RUN_WEBSITE.bat.
+3. Wait for Streamlit to start, then open http://localhost:8501 in Chrome.
+4. Select Upload Sales CSV.
+5. Choose your CSV and click Run Sales Analysis.
+6. Review the Dashboard and all analysis pages. Download outputs from the
+   Cleaned Data, Rejected Records, Anomaly Detection, and Management Report pages.
+7. Keep the terminal window open while using the website.
+
+To stop the website, focus the terminal and press Ctrl+C.
+
+Uploaded CSV files are processed separately from sample CSVs in data/raw.

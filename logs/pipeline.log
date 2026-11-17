@@ -1,0 +1,30 @@
+2026-10-22 03:22:22,154 INFO Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-10-22 03:22:22,156 INFO Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-10-22 03:22:22,324 ERROR Pipeline failed
+Traceback (most recent call last):
+  File "/mnt/data/buildwork/enterprise-sales-intelligence/src/pipeline.py", line 33, in run_pipeline
+    create_charts(sales, monthly, charts)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/data/buildwork/enterprise-sales-intelligence/src/visualizer.py", line 15, in create_charts
+    fig,ax=plt.subplots(figsize=(9,5)); sns.barplot(data=summary,x="Net_Sales",y=col,ax=ax); ax.set_title(title); fig.tight_layout(); fig.savefig(out/fn,dpi=150); plt.close(fig)
+                                        ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/pyvenv/lib/python3.13/site-packages/seaborn/categorical.py", line 2371, in barplot
+    color = _default_color(ax.bar, hue, color, kwargs, saturation=saturation)
+  File "/opt/pyvenv/lib/python3.13/site-packages/seaborn/utils.py", line 142, in _default_color
+    color = desaturate(color, saturation)
+  File "/opt/pyvenv/lib/python3.13/site-packages/seaborn/utils.py", line 168, in desaturate
+    rgb = to_rgb(color)
+  File "/opt/pyvenv/lib/python3.13/site-packages/matplotlib/colors.py", line 529, in to_rgb
+    return to_rgba(c)[:3]
+           ~~~~~~~^^^
+  File "/opt/pyvenv/lib/python3.13/site-packages/matplotlib/colors.py", line 317, in to_rgba
+    rgba = _to_rgba_no_colorcycle(c, alpha)
+  File "/opt/pyvenv/lib/python3.13/site-packages/matplotlib/colors.py", line 401, in _to_rgba_no_colorcycle
+    raise ValueError(f"Invalid RGBA argument: {orig_c!r}")
+ValueError: Invalid RGBA argument: None
+2026-10-22 03:22:28,913 INFO Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-10-22 03:22:28,916 INFO Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-10-22 03:22:29,859 INFO Pipeline completed: raw=121 clean=116 rejected=5 anomalies=23
+2026-10-22 03:22:49,858 INFO Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-10-22 03:22:49,861 INFO Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-10-22 03:22:50,835 INFO Pipeline completed: raw=121 clean=116 rejected=5 anomalies=23

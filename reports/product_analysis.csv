@@ -1,0 +1,11 @@
+Product_ID,Product_Name,Revenue,Quantity_Sold,Orders,Average_Discount,Cancellation_Rate_Pct,Performance_Flag
+P106,Smartphone,1368000.0,81,16,0.065625,6.25,Normal
+P103,Office Chair,1357850.0,229,17,0.15882352941176472,11.76470588235294,Normal
+P108,Bookshelf,212940.0,59,16,0.134375,6.25,Normal
+P107,Headphones,194880.0,71,20,0.16,10.0,Normal
+P104,Desk Lamp,86040.0,54,13,0.13846153846153847,15.384615384615385,Normal
+P105,Cotton Shirt,35595.0,46,11,0.11818181818181818,0.0,Normal
+P103,Unknown Product,30875.0,5,1,0.05,100.0,Normal
+P101,Wireless Mouse,29997.5,59,13,0.2576923076923077,15.384615384615385,Normal
+P102,Keyboard,28920.0,29,8,0.17500000000000002,12.5,Low Performing
+P102,Wireless Mouse,2699.9999999999995,5,1,0.55,0.0,Low Performing

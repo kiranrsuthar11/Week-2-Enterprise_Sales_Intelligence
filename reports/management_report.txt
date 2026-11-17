@@ -1,0 +1,33 @@
+ENTERPRISE SALES DATA PROCESSING, ANALYTICS & BUSINESS INTELLIGENCE AUTOMATION SYSTEM
+==================================================================================
+
+EXECUTIVE SUMMARY
+Total Revenue: ₹2,925,277.50
+Total Orders: 116
+Completed Orders: 98
+Cancelled Orders: 12
+Cancellation Rate: 10.34%
+Average Order Value: ₹29,849.77
+Units Sold: 560
+Total Discount: ₹276,122.50
+Unique Customers: 25
+Repeat Customers: 25
+Rejected Records: 5
+Flagged Anomalies: 23
+
+TOP PERFORMERS
+Top Branch: Mumbai
+Top Product: Smartphone
+Top Category: Furniture
+Most Used Payment Method: Debit Card
+
+KEY FINDINGS & RECOMMENDATIONS
+- Review cancellation reasons at Pune (rate 16.7%).
+- Review 23 flagged transactions; anomaly flags are not proof of fraud.
+- Review low-performing products before offering additional discounts.
+- Encourage repeat purchases from one-time customers through retention offers.
+- Compare discount bands with revenue and order volume before changing pricing.
+- Validate these findings against official business data before operational decisions.
+
+OUTPUTS
+See data/processed, reports, visualizations, logs and data/sales_database.db.

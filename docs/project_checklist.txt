@@ -1,0 +1,15 @@
+WEEK 2 REQUIREMENTS CHECKLIST
+[Included] Multi-file CSV import and required-column checks
+[Included] Data types and dataset size display
+[Included] Missing values, duplicates, invalid quantities/prices/dates/discounts report
+[Included] Standardized text/date/numeric fields and rejected records with reasons
+[Included] Gross sales, discount amount and net sales calculations
+[Included] Overall KPIs, daily/weekly/monthly/quarterly trends, MoM growth, weekday/weekend
+[Included] Product, category, branch, customer, payment and discount analysis
+[Included] Rule-based customer segments and anomaly flags
+[Included] SQLite database and SQL query examples
+[Included] Monthly, branch, category, top product, payment, customer segment, discount and cancellation charts
+[Included] Automated management report with recommendations
+[Included] Logging, exception handling, configurable folder convention and reusable modules
+[Included] Sample data, README and notebook
+[Not automated] GitHub repository publishing, final presentation, Streamlit, MySQL, email or scheduled runs.
